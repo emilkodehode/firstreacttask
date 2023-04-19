@@ -1,0 +1,11 @@
+.articles{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    justify-content: center;
+    margin: 0 25%;
+    gap: 10px;
+}
+.article{
+    justify-content: center;
+}

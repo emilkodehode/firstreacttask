@@ -1,0 +1,19 @@
+.post{
+    background-color: rgb(214, 214, 214);
+    max-width: 75rem;
+    padding: 10px;
+}
+.posthead{
+    display: flex;
+}
+.postfooter{
+    display: flex;
+    justify-content: space-between;
+}
+.tags{
+    display: flex;
+    list-style: none;
+}
+.tags li{
+    margin: 0 2rem;
+}
